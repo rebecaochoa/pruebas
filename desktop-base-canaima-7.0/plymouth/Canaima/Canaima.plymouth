@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Canaima
+Description=Este es el plymouth oficial de Canaima 7 "Imawarí"
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/Canaima
+ScriptFile=/usr/share/plymouth/themes/Canaima/Canaima.script

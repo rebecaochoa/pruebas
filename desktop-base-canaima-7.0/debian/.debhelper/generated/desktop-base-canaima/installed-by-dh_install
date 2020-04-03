@@ -1,0 +1,7 @@
+./Canaima
+./icons/Canaima
+./themes/Canaima
+./plymouth/Canaima
+./logo/logo-canaima.png
+./logo/greeter.dconf-defaults
+./glib-2.0/org.gnome.desktop.interface.gschema.xml

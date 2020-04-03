@@ -1,0 +1,13 @@
+Source: desktop-base-canaima
+Section: misc
+Priority: optional
+Maintainer: Rebeca Ochoa <rochoa@cnti.gob.ve>
+Build-Depends: debhelper (>=11~), plymouth (>= 0.9.4-1.1), plymouth-themes (>= 0.9.4-1.1)
+Standards-Version: 4.1.4
+Homepage: <https://canaima.softwarelibre.gob.ve>
+
+Package: desktop-base-canaima
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: Este es el paquete de tematización de Canaima GNU/Linux versión 7 "Imawarí"

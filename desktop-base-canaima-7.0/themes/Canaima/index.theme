@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Canaima
+Comment=Este es el tema oficial de Canaima 7 Imawarí
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Canaima
+MetacityTheme=Canaima
+IconTheme=Canaima
+CursorTheme=Adwaita
+ButtonLayout=menu:minimize,maximize,close

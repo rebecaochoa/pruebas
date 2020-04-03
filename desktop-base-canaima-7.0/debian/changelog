@@ -1,0 +1,7 @@
+desktop-base-canaima (7.0) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #0000
+  * This is my first Canaima package.
+  * Adjusted the Makele to fix $(DESTDIR) problems.
+
+ -- Rebeca Ohcoa <rochoa@cnti.gob.ve>  Mon, 30 Mar 2020 01:11:29 -0400
